@@ -1,0 +1,27 @@
+.folder-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.folder {
+  cursor: pointer;
+}
+
+.explorer-item {
+  border: 1px solid #dfdfdf;
+  background-color: lightgray;
+  padding: 4px;
+  width: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.explorer-item button {
+  cursor: pointer;
+}
+
+.input-container input {
+  border: 1px solid black;
+  padding: 4px;
+}
