@@ -1,0 +1,26 @@
+.comment-container {
+  display: flex;
+  background-color: lightgray;
+  margin: 0.25rem;
+  padding: 0.5rem;
+  display: inline-block;
+  border-radius: 4px;
+}
+.comment-actions-container {
+  margin-left: 1rem;
+}
+.comment-action-button {
+  background-color: lightgray;
+  border: 0;
+  cursor: pointer;
+}
+.reply-button {
+  color: rgb(25, 95, 207);
+}
+
+.delete-button {
+  color: rgb(222, 78, 78);
+}
+.commentinput-button {
+  cursor: pointer;
+}
