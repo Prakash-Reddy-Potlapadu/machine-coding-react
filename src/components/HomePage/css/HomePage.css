@@ -1,0 +1,6 @@
+.navigation-list {
+    list-style-type: none;
+}
+.navigation-list li {
+    margin: 0.5rem;
+}
